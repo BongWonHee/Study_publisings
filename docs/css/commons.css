@@ -1,5 +1,4 @@
 
-
-.auto_width{
-    width: 100%;
+*{
+    border:0.1rem dotted gray;
 }
