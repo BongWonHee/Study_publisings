@@ -21,8 +21,8 @@
 ## Bootstrap 연습
 | 제목 | 소스 | 설명 | 비고|
 | --- | --- | --- | --- |
-| My_First_Bootstrap|[My_First_Bootstrap.html](./docs/bootstraps/cases/My_First_Bootstrap.html)| 예제 연습| |
-| trybs |[trybs.html](./docs/bootstraps/cases/trybs.html)| 예제연습 | |
+| My_First_Bootstrap|[My_First_Bootstrap.html](./docs/bootstraps/cases/My_First_Bootstrap.html)| 과제 수행물 | |
+| trybs |[trybs.html](./docs/bootstraps/cases/trybs.html)| 과제 수행물 | |
 
 
 
