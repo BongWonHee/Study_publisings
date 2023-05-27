@@ -1,6 +1,6 @@
 ## 설치법
--vs code 설치
--Bootstrap 설치
+- vs code 설치
+- Bootstrap 설치
 
 ## Bootstrap 기초
 | 제목 | 소스 | 설명 | 비고|
